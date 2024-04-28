@@ -29,7 +29,7 @@ Original Data Source: https://challenge2018.isic-archive.com
 4. Follow the instructions provided in the notebook to load the dataset, preprocess the images, train machine learning models (e.g., K-Nearest Neighbors, Support Vector Machine, Random Forest), and evaluate their performance.
 
 ## Results
-The trained models are evaluated using accuracy score, confusion matrix, and classification report. The performance metrics provide insights into the effectiveness of each model in classifying skin lesions.'Random Forest' gave better accuracy.
+The trained models are evaluated using accuracy score, confusion matrix, and classification report. The performance metrics provide insights into the effectiveness of each model in classifying skin lesions.'Support Vector Machine' gave highest accuracy of 91.5%.
 
 ## Conclusion
 In this project, we explored different traditional machine learning models for skin lesion classification and evaluated their performance using the HAM10000 dataset. The results demonstrate the potential of machine learning in assisting dermatologists in diagnosing skin lesions.
